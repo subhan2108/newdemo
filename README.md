@@ -1,4 +1,4 @@
 # newdemo
 my first git repo
 <br>
-author-subhan khan
+author-(subhan khan)
